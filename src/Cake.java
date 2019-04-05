@@ -9,7 +9,7 @@ public class Cake {
         cakeToppings = t;
     }
 
-    public int getName() {
+    public String getName() {
         return cakeToppings + " Cake\n";
     }
 }
